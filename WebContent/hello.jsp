@@ -3,7 +3,7 @@
 <title>Welcome</title>
 </head>
 <body>
-	<h1>sdfsdfsdfs test JSP!!</h1>
+	<h1>sdfsdfsd test JSP!!</h1>
 	Hello! Java Server Pages.
 </body>
 </html>
